@@ -17,6 +17,8 @@ public class DeberApplication implements CommandLineRunner {
 		
 		System.out.println("Crear un nuevo proyecto");
 		System.out.println("Cambio en la misma rama");
+		System.out.println("Cambio y subir una nueva rama");
+		System.out.println("Hurtado Kevin");
 		
 	}
 
